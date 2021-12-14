@@ -1,2 +1,3 @@
-# Restaurant
-Restaurant with HTML
+# FastFood Menu
+
+Fast Food menu with HTML
